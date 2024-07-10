@@ -25,12 +25,12 @@ Nowcoder RemoteJudge is a CLI Remotejudge tool for NowCoder.
 the info can be found on the problem page with keyword **questionID**
 
 
-5. submit using format:
+3. submit using format:
 ```
 NCRMJ.py [code] [-l language] [-p problem]
 ```
 
-6. Check the standings using format:
+4. Check the standings using format:
 ```
 NCRMJ.py -s [username]
 ```
