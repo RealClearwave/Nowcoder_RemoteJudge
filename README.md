@@ -22,8 +22,8 @@ Nowcoder RemoteJudge is a CLI Remotejudge tool for NowCoder.
     ...
 }
 ```
-the info can be found on the problem page with keyword **questionID**
-
+the info can be found on the problem page with method below:
+![Instruction](screenshot_2.png)
 
 3. submit using format:
 ```
