@@ -27,7 +27,7 @@ the info can be found on the problem page with method below:
 
 3. submit using format:
 
-### If you name code file with its index, NCEMJ can automatically detect its Language and Problem ID. 
+### If you name code file with its index, NCRMJ can automatically detect its Language and Problem ID. 
 Sample:
 ```
 NCRMJ.py A.cpp
