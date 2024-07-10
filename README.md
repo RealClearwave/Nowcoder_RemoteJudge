@@ -45,5 +45,5 @@ NCRMJ.py [code] [-l language] [-p problem]
 
 6. Check the standings using format:
 ```
-NCRMJ.py -s [contest_id] [username]
+NCRMJ.py -s [username]
 ```
